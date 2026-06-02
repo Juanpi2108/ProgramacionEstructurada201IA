@@ -1,7 +1,7 @@
 """
 Materia: Programación Estructurada
 Laboratorio: Refactorización y Análisis de Código
-Alumno: [Tu Nombre]
+Alumno: Juan Pablo Perea Lara
 """
 
 import random
